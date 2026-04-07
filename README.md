@@ -40,8 +40,8 @@ Sou um entusiasta de tecnologia, com um pé no Direito e o outro na Análise e D
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olliverfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olliverfreitas&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olliverfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olliverfreitas&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
 </div>
 
 ---
