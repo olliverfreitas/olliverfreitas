@@ -1,49 +1,152 @@
-### Olá! Eu sou o Ólliver 👋
+<!-- ================== MATRIX RAIN EFFECT ================== -->
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/olliver.aquino/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B3lliver-aquino/)
-[![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/olliverfreitas?tab=repositories)
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="100%" />
+</p>
 
----
+<!-- ================== HEADER ================== -->
 
-### 🏛️ Sobre Mim
+<h1 align="center">🟢 ACCESS GRANTED 🟢</h1>
 
-Sou um entusiasta de tecnologia, com um pé no Direito e o outro na Análise e Desenvolvimento de Sistemas. Minha jornada envolve a transição do universo jurídico (com vivência em sistemas como Projudi) para a construção de soluções digitais robustas e inovadoras.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=28&center=true&vCenter=true&width=900&lines=Initializing+system...;Bypassing+security...;Welcome+to+the+Matrix...;Ólliver+Aquino+loaded;Full+Stack+Developer+in+progress" />
+</p>
 
-- 🔭 Atualmente trabalhando em um **Sistema de Clínica Médica** e um **Jogo de Dominó Web**.
-- ⚙️ Explorando o mundo do hardware com **ESP32-CAM** e simulações de rede no **Cisco Packet Tracer**.
-- 🧠 Focado em aprimorar conhecimentos em **Modelagem de Bancos de Dados** e Arquitetura de Software.
-- ⚽ Nas horas vagas: Assistir futebol, uma boa partida de PUBG e fã de séries como *Vikings* e *Mindhunter*.
-
----
-
-### 🛠️ Tecnologias e Ferramentas
-
-**Frontend & Web**
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</div>
-
-**Infra, DB & Hardware**
-<div>
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cisco-049BCE?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/MicroPython-2B2728?style=for-the-badge&logo=micropython&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</div>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=olliverfreitas&color=00ff00"/>
+</p>
 
 ---
 
-### 📊 Estatísticas do GitHub
+## 🧠 > whoami
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=olliverfreitas&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olliverfreitas&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas" />
-</div>
+```bash
+> user: olliver
+> name: Ólliver Aquino
+> role: developer_in_progress
+> origin: Direito → Tecnologia
+> focus: Full Stack Development
+> status: online 🟢
+```
 
 ---
 
-> "Apaixonado por tecnologia e inovação, sempre em busca de estar onde o futuro acontece."
+## 🌐 > social_links
+
+<p align="center">
+  <a href="https://www.instagram.com/olliver.aquino/">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00"/>
+  </a>
+  <a href="https://www.linkedin.com/in/%C3%B3lliver-aquino/">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00"/>
+  </a>
+  <a href="https://github.com/olliverfreitas">
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00"/>
+  </a>
+</p>
+
+---
+
+## ⚡ > current_mission
+
+```
+> building: Sistema de Clínica Médica
+> developing: Jogo de Dominó Web
+> studying: Arquitetura de Software + Banco de Dados
+> exploring: ESP32-CAM | Redes Cisco
+```
+
+---
+
+## 🛠️ > tech_stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,postgres,git" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Cisco-000000?style=for-the-badge&logo=cisco&logoColor=00FF00"/>
+  <img src="https://img.shields.io/badge/MicroPython-000000?style=for-the-badge&logo=micropython&logoColor=00FF00"/>
+</p>
+
+---
+
+## 📊 > system_stats
+
+<p align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=olliverfreitas&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olliverfreitas&layout=compact&theme=chartreuse-dark"/>
+</p>
+
+---
+
+## 🐍 > running_snake.exe
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/olliverfreitas/olliverfreitas/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧬 > core_loop
+
+```
+while (alive) {
+   learn();
+   build();
+   hack();
+   evolve();
+}
+```
+
+---
+
+## 🎮 > fun_facts
+
+```
+> futebol ⚽
+> PUBG 🎮
+> Vikings 📺
+> Mindhunter 🧠
+> evolução constante 🚀
+```
+
+---
+
+## 💀 > system_log.txt
+
+```
+[BOOT] System initialized...
+[OK] Loading developer profile...
+[OK] Skills loaded...
+[OK] Projects detected...
+[RUNNING] Evolution process...
+```
+
+---
+
+## 🔐 > access_control
+
+```
+if (you_are_here) {
+   follow_me();
+   connect();
+   build_together();
+}
+```
+
+---
+
+## 🧠 > philosophy
+
+```
+"Code is power.
+Knowledge is freedom.
+Consistency is everything."
+```
+
+---
+
+<p align="center">
+  🟢 SYSTEM ONLINE — READY TO BUILD 🟢
+</p>
