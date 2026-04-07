@@ -8,12 +8,12 @@
 
 ### 🏛️ Sobre Mim
 
-Sou um entusiasta de tecnologia baseado no **Amazonas**, com um pé no Direito e o outro na Engenharia de Software. Minha jornada envolve a transição do universo jurídico (com vivência em sistemas como Projudi) para a construção de soluções digitais robustas e inovadoras.
+Sou um entusiasta de tecnologia, com um pé no Direito e o outro na Análise e Desenvolvimento de Sistemas. Minha jornada envolve a transição do universo jurídico (com vivência em sistemas como Projudi) para a construção de soluções digitais robustas e inovadoras.
 
 - 🔭 Atualmente trabalhando em um **Sistema de Clínica Médica** e um **Jogo de Dominó Web**.
 - ⚙️ Explorando o mundo do hardware com **ESP32-CAM** e simulações de rede no **Cisco Packet Tracer**.
 - 🧠 Focado em aprimorar conhecimentos em **Modelagem de Bancos de Dados** e Arquitetura de Software.
-- ⚽ Nas horas vagas: Futevôlei, uma boa partida de PUBG e fã de séries como *Vikings* e *Mindhunter*.
+- ⚽ Nas horas vagas: Assistir futebol, uma boa partida de PUBG e fã de séries como *Vikings* e *Mindhunter*.
 
 ---
 
