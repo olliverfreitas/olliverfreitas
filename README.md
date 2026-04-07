@@ -74,10 +74,6 @@ const olliver = {
 
 <div align="center">
 
-![Ólliver's GitHub Stats](https://github-readme-stats.vercel.app/api?username=olliverfreitas&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00cc33&text_color=3a7a3a)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=olliverfreitas&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=3a7a3a)
-
 ![GitHub Streak](https://streak-stats.demolab.com?user=olliverfreitas&theme=matrix&hide_border=true&background=0a0a0a&stroke=1a4d1a&ring=00ff41&fire=00cc33&currStreakLabel=00ff41)
 
 </div>
